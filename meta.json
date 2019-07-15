@@ -1,0 +1,7 @@
+{
+    "home":{
+        "title":"Homepage of text project for nuxt app",
+        "description":"welcome to my very first nuxt app",
+        "charset":"utf-8"
+    }
+}
